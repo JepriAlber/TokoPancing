@@ -1,0 +1,36 @@
+.table{
+
+}
+
+body{
+	font-family: 'Times New Romans';
+	color: #000000;
+}
+
+.judul{
+	font-family: 'Broadway';
+	background: blue;
+	padding: 5px;
+	text-align: center;
+	color: white;
+
+}
+
+.judul h1,h2,h3{
+	height: 15px;
+}
+
+a{
+	/*color: #fff;*/
+	padding: 5px;
+	text-decoration: none;	
+}
+
+
+.table{
+	border-collapse: collapse;
+}
+
+table.table th th , table.table tr td{
+	padding: 10px 20px	;
+}
